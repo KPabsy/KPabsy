@@ -19,7 +19,8 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kpabsy&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=kpabsy&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="kavindu trophies" />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kpabsy&icon=1&color=1)](https://visitcount.itsvg.in)
